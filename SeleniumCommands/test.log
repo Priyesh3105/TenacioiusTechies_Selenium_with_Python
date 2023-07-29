@@ -1,0 +1,5 @@
+2023-04-19 17:27:40,042:  DEBUG: This is debug message
+2023-04-19 17:27:40,043:  INFO: This is info message
+2023-04-19 17:27:40,043:  WARNING: This is warning message
+2023-04-19 17:27:40,043:  ERROR: This is error message
+2023-04-19 17:27:40,044:  CRITICAL: This is critical message
